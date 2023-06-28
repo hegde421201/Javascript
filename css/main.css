@@ -1,0 +1,12 @@
+body {
+    background-color: green;
+    color: white;
+  }
+
+  p {
+    color: rgba(244, 145, 14, 0.80); 
+  }
+  
+  h2 {
+   color: #FA8072;
+  }
